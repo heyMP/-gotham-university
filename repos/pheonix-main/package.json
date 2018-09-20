@@ -1,6 +1,7 @@
 {
-  "name": "@gotham-university/gotham-main",
+  "name": "@gotham/gotham-main",
   "version": "1.0.2",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "gitHead": "c2991154adb1bea69e258627ed09ffbb6e05dac1"
 }
