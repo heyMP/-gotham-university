@@ -1,5 +1,5 @@
 {
-  "name": "gotham-main",
+  "name": "@gotham-university/gotham-main",
   "version": "1.0.1",
   "main": "index.js",
   "license": "MIT"
