@@ -1,5 +1,5 @@
 {
-  "name": "@gotham-university",
+  "name": "gotham-university",
   "private": true,
   "devDependencies": {
     "lerna": "^3.3.0"
